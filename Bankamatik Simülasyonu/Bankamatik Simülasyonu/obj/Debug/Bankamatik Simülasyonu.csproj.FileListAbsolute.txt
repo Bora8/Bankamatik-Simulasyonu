@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Bankamatik Simülasyonu\Bankamatik Simülasyonu\bin\Debug\Bankamatik Simülasyonu.exe.config
+C:\Users\KoelSYS\source\repos\Bankamatik Simülasyonu\Bankamatik Simülasyonu\bin\Debug\Bankamatik Simülasyonu.exe
+C:\Users\KoelSYS\source\repos\Bankamatik Simülasyonu\Bankamatik Simülasyonu\bin\Debug\Bankamatik Simülasyonu.pdb
+C:\Users\KoelSYS\source\repos\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.exe
+C:\Users\KoelSYS\source\repos\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.pdb
